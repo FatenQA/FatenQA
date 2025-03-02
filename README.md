@@ -24,7 +24,7 @@
 
 <h2> 🌐 Me contacter </h2>
 
-<p align="center"> <a href="mailto:boujemaihaifi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/HaifaQA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/boujemaihaifaqa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
+<p align="center"> <a href="mailto:+khalloutfaten92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://github.com/FatenQA"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/khallout-fatenqa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> </p>
 <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E5eHBhdmM0aHlsYzE0Nnc1cnJlazUwbHFhYW9seTNsYmVpY25iYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="40%" alt="Coding"> </p> <p align="center">  </p>
   
   <h2 align="center"> 🌟 Toujours en quête d’apprentissage et d’amélioration continue ! 🌟  </h2>
