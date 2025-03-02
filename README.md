@@ -5,10 +5,12 @@
 <p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1tMmZ5b3FmcTRhaHNjYzVmZWp2cmQ2YzRkMGtsZngyaHNkMWczYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26n7b7PjSOZJwVCmY/giphy.gif" width="20%" alt="Testing in action"> </p>
 <h2>✨ À propos de moi</h2>
 
-💡
-🎨
-
-🚀 Toujours curieuse et en apprentissage, j’aime explorer de nouvelles technologies et outils.
+ 📌 **ISTQB Certified Tester**  
+ 🖋️ Intéressé par l'écriture de **user stories** et l'amélioration de la qualité logicielle  
+ 🔍 Passionné par les **tests fonctionnels, automatisation et stratégie de test**  
+ 📚 En constante **apprentissage** sur les nouvelles méthodologies et outils de test  
+ ⛺ **Scout engagé** : valeurs de solidarité, leadership et esprit d’équipe 
+ 🚀 Toujours curieuse et en apprentissage, j’aime explorer de nouvelles technologies et outils.
 
 <h2>🚀 Technologies & Outils</h2>
 
