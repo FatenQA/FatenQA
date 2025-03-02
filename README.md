@@ -8,8 +8,9 @@
  📌 **ISTQB Certified Tester**  
  🖋️ Intéressé par l'écriture de **user stories** et l'amélioration de la qualité logicielle  
  🔍 Passionné par les **tests fonctionnels, automatisation et stratégie de test**  
- 📚 En constante **apprentissage** sur les nouvelles méthodologies et outils de test  
- ⛺ **Scout engagé** : valeurs de solidarité, leadership et esprit d’équipe 
+ 📚 En constante **apprentissage** sur les nouvelles méthodologies et outils de test .
+ ⛺ **Scout engagé** : valeurs de solidarité, leadership et esprit d’équipe. 
+ 
  🚀 Toujours curieuse et en apprentissage, j’aime explorer de nouvelles technologies et outils.
 
 <h2>🚀 Technologies & Outils</h2>
